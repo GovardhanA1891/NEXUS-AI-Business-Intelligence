@@ -159,19 +159,20 @@ The dashboard reports historical aggregates from the supplied dataset. The month
 Developed as an AI and machine learning portfolio project to demonstrate data analytics, machine learning, anomaly detection, and dashboard development.
 
 
+
 ## Dashboard Screenshots
 
-### Executive Overview
-![Executive Overview](assets/executive-overview.png)
+### 1. Executive Overview
+![Executive Overview](assets/Screenshot%202026-10-09%20103554.png)
 
-### Sales Analytics
-![Sales Analytics](assets/sales-analytics.png)
+### 2. Sales Analytics
+![Sales Analytics](assets/Screenshot%202026-10-09%20104014.png)
 
-### Business Insights
-![Business Insights](assets/business-insights.png)
+### 3. Business Insights
+![Business Insights](assets/Screenshot%202026-10-09%20104155.png)
 
-### ML Model Evaluation
-![ML Model Evaluation](assets/model-evaluation.png)
+### 4. Machine Learning Model Evaluation
+![ML Model Evaluation](assets/Screenshot%202026-10-09%20104256.png)
 
-### Anomaly Detection
-![Anomaly Detection](assets/anomaly-detection.png)
+### 5. Anomaly Detection
+![Anomaly Detection](assets/Screenshot%202026-10-09%20104402.png)
