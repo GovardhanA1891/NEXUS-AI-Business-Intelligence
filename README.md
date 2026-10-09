@@ -1,3 +1,8 @@
+## Live Demo
+
+**Try NEXUS online:** [Launch NEXUS AI Business Intelligence](https://govardhana1891-nexus-ai-business-intelligence-app-hdf5r1.streamlit.app)
+
+Explore sales analytics, business insights, machine learning model evaluation, and anomaly detection through the interactive dashboard.
 
 # NEXUS — AI Multi-Agent Business Intelligence
 
