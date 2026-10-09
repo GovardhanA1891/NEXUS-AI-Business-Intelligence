@@ -1,0 +1,41 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated analysis outputs
+# Uncomment these if you do not want to version generated CSVs
+# outputs/anomaly_detection_results.csv
+# outputs/detected_anomalies.csv
+# Generated analysis outputs
+outputs/*.csv
