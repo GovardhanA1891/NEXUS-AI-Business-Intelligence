@@ -160,19 +160,38 @@ Developed as an AI and machine learning portfolio project to demonstrate data an
 
 
 
+
 ## Dashboard Screenshots
 
-### 1. Executive Overview
+### 1. Executive Overview — KPIs and Revenue
 ![Executive Overview](assets/Screenshot%202026-10-09%20103554.png)
 
-### 2. Sales Analytics
+### 2. Executive Overview — Monthly Revenue Trend
+![Monthly Revenue Trend](assets/Screenshot%202026-10-09%20103752.png)
+
+### 3. Executive Overview — Business Highlights
+![Business Highlights](assets/Screenshot%202026-10-09%20103922.png)
+
+### 4. Sales Analytics — Revenue by Category and Region
 ![Sales Analytics](assets/Screenshot%202026-10-09%20104014.png)
 
-### 3. Business Insights
+### 5. Sales Analytics — Transaction Explorer
+![Transaction Explorer](assets/Screenshot%202026-10-09%20104051.png)
+
+### 6. Business Insights — Key Findings
 ![Business Insights](assets/Screenshot%202026-10-09%20104155.png)
 
-### 4. Machine Learning Model Evaluation
-![ML Model Evaluation](assets/Screenshot%202026-10-09%20104256.png)
+### 7. Business Insights — Additional Findings
+![Additional Business Insights](assets/Screenshot%202026-10-09%20104219.png)
 
-### 5. Anomaly Detection
+### 8. Machine Learning — Model Evaluation
+![Model Evaluation](assets/Screenshot%202026-10-09%20104256.png)
+
+### 9. Anomaly Detection — Flagged Transactions
 ![Anomaly Detection](assets/Screenshot%202026-10-09%20104402.png)
+
+### 10. Anomaly Detection — Transaction Details
+![Anomaly Transaction Details](assets/Screenshot%202026-10-09%20104430.png)
+
+### 11. Dashboard Navigation
+![Dashboard Navigation](assets/Screenshot%202026-10-09%20104456.png)
